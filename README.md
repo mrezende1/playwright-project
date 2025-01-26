@@ -9,10 +9,6 @@ npm run dev
 
 ### Fila de espera (Leads)
 
-### Aula - Elementos Flutuantes.
-
-### Aula - Elementos de Página Solta.
-
 ### Autenticação (Login)
 
 ## Gestão de Filmes
